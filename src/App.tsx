@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import Scoreboard from './components/Scoreboard';
 import './styles/Scoreboard.css';
 
